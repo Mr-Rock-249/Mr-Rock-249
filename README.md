@@ -14,9 +14,9 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Profile Map (Run Workflow to Generate)" />
-</div>
+</div> -->
 
 <br/>
 
