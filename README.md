@@ -6,8 +6,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mr-Rock-249&color=green" alt="Profile Views" />
-  <img alt="GitHub public repo count" src="https://img.shields.io/github/public/repos/Mr-Rock-249?label=Repos" />
-  <img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/y/Mr-Rock-249?label=Total%20Commits&color=blue" />
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/Mr-Rock-249?style=social" />
 </div>
 
 <br />
@@ -39,15 +38,15 @@ I'm a [Your Year] student pursuing [Your Degree/Major] at [Your University]. I'm
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Rock-249&show_icons=true&theme=vue&hide_border=false&count_private=true&include_all_commits=true" alt="Mr-Rock-249 GitHub Stats" width="45%" style="margin: 10px;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Rock-249&layout=compact&langs_count=5&theme=vue&hide_border=false" alt="Mr-Rock-249 Most Used Languages" width="45%" style="margin: 10px;" />
+  [![Mr-Rock-249 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Rock-249&show_icons=true&theme=vue&hide_border=false&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Mr-Rock-249 Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Rock-249&layout=compact&langs_count=5&theme=vue&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<br />
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Rock-249&theme=vue&hide_border=false" alt="Mr-Rock-249 GitHub Streak Stats" />
+  
+  [![Mr-Rock-249 GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Mr-Rock-249&theme=vue&hide_border=false)](https://github-readme-streak-stats.herokuapp.com/)
+  
 </div>
 
 ---
