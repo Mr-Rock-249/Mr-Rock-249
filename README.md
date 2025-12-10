@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://miro.medium.com/1*b21FyqUbowHYAOQDXH0tDw.jpeg" alt="Hi, I'm Mr-Rock-249 - A Web Developer in making" style="width: 100%; max-width: 900px;"/>
+  <img src="github header.jpg" alt="Hi, I'm Barshan" style="width: 100%; max-width: 900px;"/>
 </div>
 
 <br />
@@ -37,11 +37,6 @@ I'm a [Your Year] student pursuing [Your Degree/Major] at [Your University]. I'm
 
 ## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Rock-249&show_icons=true&theme=vue&hide_border=false&count_private=true&include_all_commits=true" alt="Mr-Rock-249 GitHub Stats" width="45%" style="margin: 10px;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Rock-249&layout=compact&langs_count=5&theme=vue&hide_border=false" alt="Mr-Rock-249 Most Used Languages" width="45%" style="margin: 10px;" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Rock-249&theme=vue&hide_border=false" alt="Mr-Rock-249 GitHub Streak Stats" />
