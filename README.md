@@ -6,8 +6,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mr-Rock-249&color=green" alt="Profile Views" />
-  <img alt="GitHub repo size" src="https://img.shields.io/github/all-contributors/Mr-Rock-249/Mr-Rock-249?color=2b5876" />
-  <img alt="GitHub Commits" src="https://img.shields.io/github/commits-since/Mr-Rock-249/Mr-Rock-249/month?label=Commits%20this%20month&color=orange" />
+  <img alt="GitHub public repo count" src="https://img.shields.io/github/public/repos/Mr-Rock-249?label=Repos" />
+  <img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/y/Mr-Rock-249?label=Total%20Commits&color=blue" />
 </div>
 
 <br />
@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-I'm a **[Your Year]** student pursuing **[Your Degree/Major]** at **[Your University]**. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies. I'm currently into **[Your Focus Area, e.g., Web Development]** and working on **[Specific Projects/Skills, e.g., Data Structures and Algorithms]**.
+I'm a [Your Year] student pursuing [Your Degree/Major] at [Your University]. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies. I'm currently into **[Your Focus Area, e.g., Web Development]** and working on **[Specific Projects/Skills, e.g., Data Structures and Algorithms]**.
 
 ---
 
@@ -32,7 +32,7 @@ I'm a **[Your Year]** student pursuing **[Your Degree/Major]** at **[Your Univer
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  </div>
+</div>
 
 ---
 
@@ -49,6 +49,7 @@ I'm a **[Your Year]** student pursuing **[Your Degree/Major]** at **[Your Univer
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Rock-249&theme=vue&hide_border=false" alt="Mr-Rock-249 GitHub Streak Stats" />
 </div>
+
 ---
 
 ## 📫 Get In Touch
