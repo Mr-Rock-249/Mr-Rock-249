@@ -83,13 +83,11 @@ I'm a Developer based in India, passionate about building accessible web apps an
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mr-Rock-249/Mr-Rock-249/main/profile-summary-card-output/tokyonight/1-commits.svg" width="45%" alt="commits" />
-  
-  <img src="https://raw.githubusercontent.com/Mr-Rock-249/Mr-Rock-249/main/profile-summary-card-output/tokyonight/4-areas.svg" width="45%" alt="areas" />
-</div>
 
-<br/>
+[![](https://raw.githubusercontent.com/Mr-Rock-249/Mr-Rock-249/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Mr-Rock-249/Mr-Rock-249/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Mr-Rock-249/Mr-Rock-249/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Mr-Rock-249/Mr-Rock-249/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Mr-Rock-249/Mr-Rock-249/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
 
