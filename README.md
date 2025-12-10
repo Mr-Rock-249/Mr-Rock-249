@@ -37,17 +37,15 @@ I'm a [Your Year] student pursuing [Your Degree/Major] at [Your University]. I'm
 
 ## 📊 My GitHub Stats
 
-<div align="center">
-  [![Mr-Rock-249 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Rock-249&show_icons=true&theme=vue&hide_border=false&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![Mr-Rock-249 Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Rock-249&layout=compact&langs_count=5&theme=vue&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Rock-249&show_icons=true&theme=vue&hide_border=false&count_private=true&include_all_commits=true" alt="Mr-Rock-249 GitHub Stats" width="45%" style="margin: 10px;" />
   
-  [![Mr-Rock-249 GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Mr-Rock-249&theme=vue&hide_border=false)](https://github-readme-streak-stats.herokuapp.com/)
-  
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Rock-249&layout=compact&langs_count=5&theme=vue&hide_border=false" alt="Mr-Rock-249 Most Used Languages" width="45%" style="margin: 10px;" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Rock-249&theme=vue&hide_border=false" alt="Mr-Rock-249 GitHub Streak Stats" />
+</p>
 
 ---
 
