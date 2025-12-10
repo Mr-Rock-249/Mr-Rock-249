@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="YOUR_HEADER_IMAGE_URL" alt="Hi, I'm [Your Name]" style="width: 100%; max-width: 900px;"/>
+  <img src="https://miro.medium.com/1*b21FyqUbowHYAOQDXH0tDw.jpeg" alt="Hi, I'm Mr. Rock" style="width: 100%; max-width: 900px;"/>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=green" alt="Profile Views" />
-  <img alt="GitHub repo size" src="https://img.shields.io/github/all-contributors/YOUR_USERNAME/YOUR_USERNAME?color=2b5876" />
-  <img alt="GitHub Commits" src="https://img.shields.io/github/commits-since/YOUR_USERNAME/YOUR_USERNAME/month?label=Commits%20this%20month&color=orange" />
+  <img src="https://komarev.com/ghpvc/?username=Mr-Rock-249&color=green" alt="Profile Views" />
+  <img alt="GitHub repo size" src="https://img.shields.io/github/all-contributors/Mr-Rock-249/Mr-Rock-249?color=2b5876" />
+  <img alt="GitHub Commits" src="https://img.shields.io/github/commits-since/Mr-Rock-249/Mr-Rock-249/month?label=Commits%20this%20month&color=orange" />
 </div>
 
 <br />
@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-I'm a [Your Year] student pursuing [Your Degree/Major] at [Your University]. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies. I'm currently into **[Your Focus Area, e.g., Web Development]** and working on **[Specific Projects/Skills, e.g., Data Structures and Algorithms]**.
+I'm a [2nd] student pursuing [Your Degree/Major] at [Your University]. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies. I'm currently into **[Your Focus Area, e.g., Web Development]** and working on **[Specific Projects/Skills, e.g., Data Structures and Algorithms]**.
 
 ---
 
