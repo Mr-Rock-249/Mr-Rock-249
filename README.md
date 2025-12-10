@@ -57,15 +57,7 @@ Beyond academics, I love photoshoots, bikes, cars, and creating AI-powered conte
 
 <br/>
 
-### 💻 My Gear
-| Category | Device / Tool |
-| :--- | :--- |
-| **OS** | Windows 11 / Linux |
-| **Code Editor** | VS Code (Tokyo Night Theme) |
-| **Terminal** | PowerShell + Oh My Posh |
-| **Hardware** | Ryzen 7 / 16GB RAM |
 
-<br/>
 
 ### 📈 Coding Activity
 <div align="center">
