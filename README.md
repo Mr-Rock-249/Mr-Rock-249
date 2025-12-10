@@ -39,23 +39,16 @@ I'm a **[Your Year]** student pursuing **[Your Degree/Major]** at **[Your Univer
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mr-Rock-249&show_icons=true&theme=vue&hide_border=false&count_private=true&include_all_commits=true" alt="Mr-Rock-249 GitHub Stats" width="45%" style="margin: 10px;" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Rock-249&show_icons=true&theme=vue&hide_border=false&count_private=true&include_all_commits=true" alt="Mr-Rock-249 GitHub Stats" width="45%" style="margin: 10px;" />
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Rock-249&layout=compact&langs_count=5&theme=vue&hide_border=false" alt="Mr-Rock-249 Most Used Languages" width="45%" style="margin: 10px;" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Rock-249&layout=compact&langs_count=5&theme=vue&hide_border=false" alt="Mr-Rock-249 Most Used Languages" width="45%" style="margin: 10px;" />
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Rock-249&theme=vue&hide_border=false">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Rock-249&theme=vue&hide_border=false" alt="Mr-Rock-249 GitHub Streak Stats" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Rock-249&theme=vue&hide_border=false" alt="Mr-Rock-249 GitHub Streak Stats" />
 </div>
-
 ---
 
 ## 📫 Get In Touch
