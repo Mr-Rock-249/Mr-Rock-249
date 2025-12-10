@@ -74,21 +74,27 @@ I'm a Developer based in India, passionate about building accessible web apps an
 
 <br/>
 
+
 ### 📊 Statistics
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mr-Rock-249&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-  <br/><br/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mr-Rock-249&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Rock-249&layout=compact&theme=tokyonight"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mr-Rock-249&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
+  </a>
+  <br/>
+  
+  <a href="https://github.com/Mr-Rock-249">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mr-Rock-249&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats graph" />
+  </a>
+  
+  <a href="https://github.com/Mr-Rock-249">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Rock-249&layout=compact&theme=tokyonight" alt="languages graph" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mr-Rock-249/Mr-Rock-249/main/profile-summary-card-output/tokyonight/icons.svg" width="30%" />
-  <img src="https://raw.githubusercontent.com/Mr-Rock-249/Mr-Rock-249/main/profile-summary-card-output/tokyonight/productive-time.svg" width="30%" />
-  <img src="https://raw.githubusercontent.com/Mr-Rock-249/Mr-Rock-249/main/profile-summary-card-output/tokyonight/profile-details.svg" width="30%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Rock-249&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
-<br/>
 
 ### 🏆 Featured Projects
 | Project | Description | Stack | Links |
