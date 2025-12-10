@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Mr-Rock-249!;Full+Stack+Developer;Open+Source+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Barshan+Majumdar;Machine+Learning+Engineer+&+Frontend+Developer;Open+Source+Contributor+to+GSSoC+2025;Scroll+Down+To+See+Other+Details!!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,22 +21,22 @@
 <br/>
 
 ### 👨‍💻 About Me
-I'm a Developer based in India, passionate about building accessible web apps and backend systems.
+Hi, I’m Barshan Majumdar, a Machine Learning Engineer and Frontend Developer.
 
-- 🔭 I’m currently working on **[Your Project Name]**
-- 🌱 I’m currently learning **Advanced System Design**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, and Cloud Architecture**
-- ⚡ Fun fact: **I code faster than I can talk.**
+Currently I am a CSE (AI) undergraduate at Brainware University with a strong focus on Artificial Intelligence, Machine Learning, Deep Learning, and Image Processing. I’m actively building projects around real-time AI systems and edge computing, and I’ve also worked on topics like smart antennas and image processing in my research journey.
+
+I enjoy contributing to open-source communities like GSSoC 2025, working on meaningful tech solutions, and exploring how AI can solve real-world problems. 
+
+Beyond academics, I love photoshoots, bikes, cars, and creating AI-powered content. I’m constantly experimenting, learning, and pushing myself toward big goals—cracking GATE CSE, pursuing M.Tech at a top IIT, and building a solid career in AI with high-impact projects.
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/https://in.linkedin.com/in/barshan-majumdar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:barshanmajumdar249@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://https://portfolio-theta-seven-dn3h5sn6bq.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=kofi&label=&color=ff5e5b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
   </a>
 </div>
