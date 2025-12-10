@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://miro.medium.com/1*b21FyqUbowHYAOQDXH0tDw.jpeg" alt="Hi, I'm Mr. Rock" style="width: 100%; max-width: 900px;"/>
+  <img src="https://miro.medium.com/1*b21FyqUbowHYAOQDXH0tDw.jpeg" alt="Hi, I'm Mr-Rock-249 - A Web Developer in making" style="width: 100%; max-width: 900px;"/>
 </div>
 
 <br />
@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-I'm a [2nd] student pursuing [Your Degree/Major] at [Your University]. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies. I'm currently into **[Your Focus Area, e.g., Web Development]** and working on **[Specific Projects/Skills, e.g., Data Structures and Algorithms]**.
+I'm a **[Your Year]** student pursuing **[Your Degree/Major]** at **[Your University]**. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies. I'm currently into **[Your Focus Area, e.g., Web Development]** and working on **[Specific Projects/Skills, e.g., Data Structures and Algorithms]**.
 
 ---
 
@@ -40,19 +40,19 @@ I'm a [2nd] student pursuing [Your Degree/Major] at [Your University]. I'm a pas
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" width="45%" style="margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Mr-Rock-249&show_icons=true&theme=vue&hide_border=false&count_private=true&include_all_commits=true" alt="Mr-Rock-249 GitHub Stats" width="45%" style="margin: 10px;" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=5&theme=vue&hide_border=false" alt="Most Used Languages" width="45%" style="margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Rock-249&layout=compact&langs_count=5&theme=vue&hide_border=false" alt="Mr-Rock-249 Most Used Languages" width="45%" style="margin: 10px;" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=vue&hide_border=false">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=vue&hide_border=false" alt="GitHub Streak Stats" />
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Rock-249&theme=vue&hide_border=false">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Rock-249&theme=vue&hide_border=false" alt="Mr-Rock-249 GitHub Streak Stats" />
   </a>
 </div>
 
