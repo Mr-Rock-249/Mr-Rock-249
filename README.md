@@ -36,7 +36,7 @@ Beyond academics, I love photoshoots, bikes, cars, and creating AI-powered conte
   <a href="mailto:barshanmajumdar249@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://https://https://portfolio-barshan.vercel.app//" target="_blank">
+  <a href="https://portfolio-barshan.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=kofi&label=&color=ff5e5b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
   </a>
 </div>
