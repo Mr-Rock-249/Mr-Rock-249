@@ -91,9 +91,6 @@ I'm a Developer based in India, passionate about building accessible web apps an
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mr-Rock-249/Mr-Rock-249/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Map" />
-</div>
 
 
 
