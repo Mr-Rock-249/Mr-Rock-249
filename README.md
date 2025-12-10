@@ -1,16 +1,65 @@
-## Hi there 👋
+<div align="center">
+  <img src="YOUR_HEADER_IMAGE_URL" alt="Hi, I'm [Your Name]" style="width: 100%; max-width: 900px;"/>
+</div>
 
-<!--
-**Mr-Rock-249/Mr-Rock-249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=green" alt="Profile Views" />
+  <img alt="GitHub repo size" src="https://img.shields.io/github/all-contributors/YOUR_USERNAME/YOUR_USERNAME?color=2b5876" />
+  <img alt="GitHub Commits" src="https://img.shields.io/github/commits-since/YOUR_USERNAME/YOUR_USERNAME/month?label=Commits%20this%20month&color=orange" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+---
+
+## 👋 About Me
+
+I'm a [Your Year] student pursuing [Your Degree/Major] at [Your University]. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies. I'm currently into **[Your Focus Area, e.g., Web Development]** and working on **[Specific Projects/Skills, e.g., Data Structures and Algorithms]**.
+
+---
+
+## 💻 Technology Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  </div>
+
+---
+
+## 📊 My GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" width="45%" style="margin: 10px;" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=5&theme=vue&hide_border=false" alt="Most Used Languages" width="45%" style="margin: 10px;" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=vue&hide_border=false">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=vue&hide_border=false" alt="GitHub Streak Stats" />
+  </a>
+</div>
+
+---
+
+## 📫 Get In Touch
+
+* **Email:** [Your Email Address]
+* **LinkedIn:** [Your LinkedIn Profile URL]
+* **Portfolio:** [Your Portfolio Website URL]
