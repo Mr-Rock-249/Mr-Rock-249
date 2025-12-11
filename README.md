@@ -24,24 +24,54 @@
 ```yaml
 # 🚀 Welcome to my profile!
 user: Barshan Majumdar
-role: [Machine Learning Engineer, Frontend Developer]
-education: 
-  degree: "B.Tech CSE (AI)"
-  university: "Brainware University"
+role: 
+  - AI & Machine Learning Researcher
+  - Frontend Developer
+  - Tech Content Creator
+
+education:
+  degree: "B.Tech in Computer Science & Engineering (AI)"
+  university: "Brainware University, Barasat"
+
+research_interests:
+  - "AI, ML & Deep Learning"
+  - "Image Processing & Computer Vision"
+  - "Smart Antennas"
+  - "Real-time AI at the Edge"
 
 current_focus:
-  - "Building Real-time AI Systems"
-  - "Edge Computing & Smart Antennas"
-  - "Deep Learning & Image Processing"
+  - "Developing real-time AI solutions"
+  - "Working on an AI Resume Checker"
+  - "Building high-performance edge AI systems"
+  - "Growing as an open-source contributor"
+
+achievements:
+  - "Contributor at GirlScript Summer of Code (GSSoC) 2025"
+  - "Researcher in AI-driven Edge Systems"
+  - "Campus Ambassador at Elenxia"
+  - "Student Ambassador at LetsUpgrade"
 
 goals:
-  - "Crack GATE CSE"
-  - "Pursue M.Tech at a top IIT"
-  - "Contribute to GSSoC 2025"
+  - "Crack GATE (CSE)"
+  - "Secure M.Tech admission in a top IIT"
+  - "Become a successful developer with strong industry impact"
+  - "Publish impactful AI research papers"
+  - "Launch innovative AI-powered products"
 
-hobbies: [Photoshoots 📸, Bikes 🏍️, Cars 🏎️, AI Content Creation]
+projects:
+  - "AI Resume Checker (JS + TS)"
+  - "CodeChatter – A LeetCode x Facebook hybrid"
+  - "ResumeHub - Create ATS friendly resume with multiple templates"
+  - "StudyQ - Smart student and teacher management system"
+  - "LearnSphere - An fully AI driven learning platform"
 
+hobbies: 
+  - "Photoshoots 📸"
+  - "Bike Riding 🏍️"
+  - "Cars & Automotive Tech 🏎️"
+  - "AI Video Creation & Content Making"
 ```
+
 <div align="center">
   <a href="https://linkedin.com/in/https://in.linkedin.com/in/barshan-majumdar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
