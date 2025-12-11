@@ -73,7 +73,7 @@ hobbies:
 ```
 
 <div align="center">
-  <a href="https://linkedin.com/in/https://in.linkedin.com/in/barshan-majumdar" target="_blank">
+  <a href="https://in.linkedin.com/in/barshan-majumdar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:barshanmajumdar249@gmail.com" target="_blank">
@@ -124,17 +124,15 @@ hobbies:
 [![](https://raw.githubusercontent.com/Mr-Rock-249/Mr-Rock-249/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Mr-Rock-249/Mr-Rock-249/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-
-
-
-
-
 ### 🏆 Featured Projects
-| Project | Description | Stack | Links |
+| Project | Description | Stack | Repo Links | Live |
 | :--- | :--- | :--- | :--- |
-| **Project Name 1** | A brief description of what this project does and the problem it solves. | `React` `Node` | [Repo](#) |
-| **Project Name 2** | A brief description of what this project does and the problem it solves. | `Python` `AI` | [Repo](#) |
-| **Project Name 3** | A brief description of what this project does and the problem it solves. | `Java` `Spring` | [Repo](#) |
+| **LearnSphere** | A totally AI driven online learning platform | `React` `Node` | [Repo](https://github.com/Barshan-Majumdar/LearnSphere.git) | Sorry its ont live |
+| **ResumeHub** | All in one platform to design ATS friendly resume  | `TypeScript` `CSS` | [Repo](https://github.com/Barshan-Majumdar/ResumeHub.git) | [ResumeHub](https://resume-hub-barshan-ttm.vercel.app/) |
+| **StudyQ** | A student and teacher management system for study metarials | `JavaScript` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/StudyQ.git) | [StudyQ](https://study-q.vercel.app/) |
+| **CodeChatter** | A mixed platform that includes social and practical practices for students & coders | `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/Project_CodeChatter.git) | Sorry its not live |
+| **Resume Checker** | A tool uses keywords to match your resume with job description | `HTML` `CSS` `JavaScript` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/AI-Resume-Checker.git) | Sorry its not live |
+
 
 <br/>
 
