@@ -113,7 +113,7 @@ hobbies:
 ### 📊 Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Rock-249&theme=vue&hide_border=false" alt="Mr-Rock-249 GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Rock-249&theme=tokyonight&hide_border=false" alt="Mr-Rock-249 GitHub Streak Stats" />
 </div>
 
 <br/>
