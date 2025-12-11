@@ -21,14 +21,27 @@
 <br/>
 
 ### 👨‍💻 About Me
-Hi, I’m Barshan Majumdar, a Machine Learning Engineer and Frontend Developer.
+```yaml
+# 🚀 Welcome to my profile!
+user: Barshan Majumdar
+role: [Machine Learning Engineer, Frontend Developer]
+education: 
+  degree: "B.Tech CSE (AI)"
+  university: "Brainware University"
 
-Currently I am a CSE (AI) undergraduate at Brainware University with a strong focus on Artificial Intelligence, Machine Learning, Deep Learning, and Image Processing. I’m actively building projects around real-time AI systems and edge computing, and I’ve also worked on topics like smart antennas and image processing in my research journey.
+current_focus:
+  - "Building Real-time AI Systems"
+  - "Edge Computing & Smart Antennas"
+  - "Deep Learning & Image Processing"
 
-I enjoy contributing to open-source communities like GSSoC 2025, working on meaningful tech solutions, and exploring how AI can solve real-world problems. 
+goals:
+  - "Crack GATE CSE"
+  - "Pursue M.Tech at a top IIT"
+  - "Contribute to GSSoC 2025"
 
-Beyond academics, I love photoshoots, bikes, cars, and creating AI-powered content. I’m constantly experimenting, learning, and pushing myself toward big goals—cracking GATE CSE, pursuing M.Tech at a top IIT, and building a solid career in AI with high-impact projects.
+hobbies: [Photoshoots 📸, Bikes 🏍️, Cars 🏎️, AI Content Creation]
 
+```
 <div align="center">
   <a href="https://linkedin.com/in/https://in.linkedin.com/in/barshan-majumdar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
